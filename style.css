@@ -1,2 +1,14 @@
 h1
+{
+  color :blue;
+}
+body
+{
+  bckground-color :grey;
+}
+p
+{
+  text-align :right;
+  color :red;
+}
 
